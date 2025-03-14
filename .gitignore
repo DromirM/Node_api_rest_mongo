@@ -1,0 +1,6 @@
+#Directorios
+node_modules/
+mongo/
+
+#Archivos varios
+.env
